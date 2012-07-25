@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">FusionTablesDemo</string>
+  <string name="hello">Report a pothole!</string>
+  <string name="severity">Severity:</string>
+  <string-array name="statuses">
+    <item>Minimal</item>
+    <item>Needs attention</item>
+    <item>Will damage my car!</item>
+  </string-array>
+  <string name="location">Current location:</string>
+  <string name="submit">Submit</string>
+</resources>
